@@ -9,14 +9,17 @@ This project is a clean code Node.js application that uses Docker for containeri
 Follow these steps to set up and run the project:
 
 1. **Build and Start Containers:**
+
    ```bash
    docker-compose up --build
    
-2. **Migration Data
+2. **Migration Data:**
+
    ```bash
    npx knex migrate:latest
 
-3. **Start Project
+3. **Start Project:**
+
     ```bash
    npm run start
 
