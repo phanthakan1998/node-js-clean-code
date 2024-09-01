@@ -12,13 +12,20 @@ Follow these steps to set up and run the project:
 
    ```bash
    docker-compose up --build
+
+2. **Install Package:**
+
+    ```bash
+   npm i
    
-2. **Migration Data:**
+3. **Migration Data:**
 
    ```bash
    npx knex migrate:latest
 
-3. **Start Project:**
+
+
+4. **Start Project:**
 
     ```bash
    npm run start
