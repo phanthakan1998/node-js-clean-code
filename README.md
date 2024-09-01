@@ -28,6 +28,6 @@ Follow these steps to set up and run the project:
 4. **Start Project:**
 
     ```bash
-   npm run start
+   npm run dev
 
 
